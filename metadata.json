@@ -1,0 +1,6 @@
+{
+  "name": "Pathology Study Guide",
+  "description": "An interactive study app for Pathology final exam questions with dynamic Gemini-powered Arabic translations, exam modes, quiz statistics, and self-testing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
